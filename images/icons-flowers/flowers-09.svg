@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 71.59 92.63">
+  <path d="M12.75,58.66c.42,1.98,.43,2.7-1.79,1.79" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.68; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.84,61.44c-.25,.16-.56,.3-.87,.47" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.98; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.73,63.82c.4,.12,.82,.18,1.19,.18" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.42; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.13,65.09c.82,.87-.74,.65-3.19-.17" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.69; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M7.73,63.65c-2.16-1.23-4.89-3.43-6.27-3.93" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.12; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M2.64,61.33c3.48,2.72,7.17,6.91,11.81,5.58" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.48; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.3,67.48c-2.59-.18-7.9-1.93-9.93-1.97" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.25; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M2.74,68.2c-.26,4.47,11.67,2.03,7.86,2.71" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.39; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M7.04,71.47c-7.69,1.69-7.55,8.56-1.44,10.15" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.41; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M8.8,82.37c-.83,.82-1.12,.85-1.25,.61" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.12; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M8.43,83.51c-1.19,.45-1.06,.37-.6-.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.94; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.24,84.43c-.26,.13-1.04,.53-1.54,.46" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.25; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.91,86.47c.44,1.8,.91,3.91,2.6,4.43" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.15; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.17,89.29c3.09-4.78,5.34-16.02,6.54-7.78" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.37; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M23.85,84.7c.9,.85,2.22,.98,3.21,.64" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.29; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.99,86.91c1.92,3.33,5.62,7.34,3.95,3.7" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.38; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M31.44,87.51c-2.94-5.67-4.99-5.65-6.06-10.7" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.26; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M24.32,77.01c-.05,.33-.08,.67-.07,.98" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.96; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M22.96,77.33c-.43-1.19-.38-2.72-.09-3.41" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.31; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M23.19,72.17c.06-.44,.42-.48,.66-.55" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.86; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M25.32,70.95c-.06,.47-.35,.49-.69,.38" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.92; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M23.39,70.12c-1.16-.46-1.21-.13-1.75,1.85" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.1; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M20.53,70.92c-.63-.96-1.49-1.79-2.19-2.56" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.24; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M20.23,67.64c.52-.24,.93-.57,1.11-.8" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.76; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M19.19,64.89c-2.52-4.24-5-9.26-5.24-14.02" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.32; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.84,51.57c-.23,1.1-.32,2.46-.4,3.39" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.27; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.22,56.02h0m1.71-6.32h0m6.46,17.17h0m-2.77,.63h0m3.74,5.48h0m3.95-2.03h0m-1.55-.07h0m-.09,3.05h0m.82,4.97h0m.67-3.21h0m7.24,13.84h0m-4.4-4.79h0m-5.15-2.06h0m-8.29,8.33h0m-4.33-6.58h0m-1.81-.92h0m.37-1.14h0m-2.01-.53h0m2.64-10.7h0m-5.84-5.15h0m12.02,.49h0M.59,59.94H.59m9.08,4.53h0m2.28-.96h0m-3.81-1.07h0m1.59-2.55h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.71,61.21c.06,.17,.28,.17,.45,.14" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.03; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.1,61.33c-.06-.02-.12-.04-.19-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .4; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.1,61.33h0m-.39-.12h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.48,80.8c-.15,.45-.27,.87-.41,1.28" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.68; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.94,81.46c-.32,.49,.11,.27,.61-.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.21; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.12,80.94c1.28-.62,1.61-.63,1.29-.35" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.43; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.69,79.29c.22,.5-.14,.74-.57,.94" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.53; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.18,79.19c.39-.03,.14,.28,.07,.38" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.2,80.81c-.64,.48-1.02,.72-.5,.2" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.55; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.03,79.31c-.31,.18-.68,.41-1.02,.67" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.44; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M8.62,79.69c-.51,.09-.88,.18-1.04,.31" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.2; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.77,79.22c-.13,.18-.7,.02-1.1-.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.28; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.55,77.67c.92-.6,.32,.51,.87,.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.36; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.11,77.3c-.39,.57-.19-.15-.18-.59" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.23; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.3,76.12c.12-.19,.31-.38,.69-.56" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.8; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.46,76.97c-1.29,1.44-2.69,2.85-3.26,4.35" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.18; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.41,83.35c.28,.08,.73-.58,.98-1.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.05; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.04,85.04c.85,.27,1.07-.02,1.01-.45" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.83; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.2,84.31c.11-.34,.21-.7,.25-1.02" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.11; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.5,83.29c-.95,.66-.61,.52-.12,.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.74; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.5,83.3h0m.74-.99h0m-.2,2.74h0m.38-1.7h0m.54-.97h0m4.89-7.1h0m-2.74,2.02h0m-.86-.38h0m-3.48,2.29h0m-1.15,.47h0m-.52,1.1h0m1.54-.65h0m1.53-.95h0m.51,.1h0m-1.57,1.65h0m-.18,.52h0m1.54-.66h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.72,63.67c.19-.21,.62-.44,.96-.6" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.29; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.6,62.98c-.26,.03-.48,.04-.64,.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.31; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.6,62.98h0m-.87,.69h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.29,72.51c-.36,.92-.45,1.11-.57,1.2" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.67; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.3,72.23c.4-.11,.54-.06,.06,.57" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.07; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.67,74.07c.14-.17,.35-.4,.6-.66" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.78; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.38,73.87c-.25,.22-.5,.42-.75,.56" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.87; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.74,74.6h0m3.14-1.83h0m-.17,.83h0m-1.42-1.1h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M17.18,73.95c-.63,.89-1.46,1.78-2.11,2.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.98; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.16,74c.3-.32,.6-.65,.92-.95" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.65; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.11,72.22h0m-3.91,3.57h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.22,80.36c-.31-.19-.46-.5-.46-.81" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.94; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.32,80.7c.31,.33,.6,.59,.77,.57" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.96; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.26,78.78c-.14-.73-.46-.19-.69,.5" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.89; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.26,78.78h0m-.94,1.92h0m.9-.34h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.78,66.2c.53-.37,1.21-.25,1.6-.15" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.32; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.62,65.32c-.11,.09-.42,.24-.67,.4" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.55; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.62,65.32h0m-.84,.88h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.03,83.07c.23-.17,.37-.47,.37-.72" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.67; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.84,81.94c.08,.19,.05,.39,.04,.58" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.18; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.84,81.94h0m.19,1.13h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M8.71,84.98c.21,.02,.38-.13,.48-.33" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.25; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.37,84.06c-.18,.04-.42,.17-.59,.33" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.37; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.37,84.06h0m-.66,.93h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.65,62.62c-.23-.03-.62,.31-.87,.62" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.19; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.08,63.53c0-.2,.08-.36,.19-.51" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.11; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.08,63.53h0m.57-.91h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.42,77.29c.21,.14,.45-.01,.66-.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.55; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.46,76.37c-.26,.09-.42,.24-.56,.41" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.41; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.46,76.37h0m-1.04,.92h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.22,80.26c.24-.06,.37-.25,.5-.44" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.37; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.23,79.4c-.03-.31-.34-.12-.62,.16" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.66; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.23,79.4h0m-1.01,.86h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.57,78.23c-.13-.16-.29-.25-.48-.27" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.12; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.55,78.08c.09,.2,.26,.25,.46,.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.13; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.55,78.08h0m1.02,.15h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.6,77.91c.03,.14,.14,.26,.28,.3" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .86; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.24,78.05c-.07-.12-.19-.25-.31-.31" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .89; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.24,78.05h0m-.63-.14h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.94,76.76c-.19,.01-.23,.07-.21,.16" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .62; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.89,77.19c.16-.05,.25-.13,.28-.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .72; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.89,77.19h0m.06-.43h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.44,76.79c0-.16-.04-.27-.1-.35" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .75; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9,76.32c.05,.15,.09,.24,.15,.31" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .69; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9,76.32h0m.44,.47h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.95,85.72c.15,0,.2-.11,.17-.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .64; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.9,85.28c-.15,0-.19,.11-.16,.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .63; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.9,85.28h0m.05,.44h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M7.39,81.16c-.18-.02-.35,.02-.51,.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.05; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M6.47,81.58c.15-.07,.3-.14,.46-.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.01; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M6.47,81.58h0m.92-.43h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.55,80.36c.1-.06,.14-.14,.14-.22" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .55; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.6,79.88c-.12,.11-.18,.17-.19,.22" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .59; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.6,79.88h0m-.06,.48h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.3,60.81c.01-.09-.02-.19-.09-.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .56; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.97,60.52c.02,.1,.05,.18,.1,.23" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .51; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.97,60.52h0m.34,.29h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.01,64.61c-.15,.03-.18,.08-.18,.16" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .54; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M17.88,65.04c.14-.05,.19-.1,.19-.17" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .54; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M17.88,65.04h0m.14-.43h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M5.95,79.01c.11-.02,.16-.07,.16-.14" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .47; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M6.01,78.66c-.08,.06-.14,.12-.17,.17" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .48; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M6.01,78.66h0m-.07,.35h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.7,75.66c.01,.12,.07,.17,.15,.2" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .53; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.11,75.93c-.05-.1-.1-.17-.15-.22" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .53; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.11,75.93h0m-.4-.27h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.26,65.41c-.11-.04-.16,.03-.16,.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .46; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.22,65.7c.06-.04,.09-.09,.1-.13" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .34; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.22,65.7h0m.03-.28h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.91,74.89c0,.12,.04,.19,.09,.22" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .5; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.25,75.08c-.06-.03-.11-.06-.17-.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .39; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.25,75.08h0m-.33-.2h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.42,82.48c-.15,.07-.21,.09-.25,.18" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .63; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.07,82.95c.06-.08,.12-.16,.17-.24" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .59; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.07,82.95h0m.35-.48h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.74,61.46s.07-.02,.07-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .2; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.77,61.31c-.06,.01-.09,.03-.09,.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.77,61.31h0m-.03,.14h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.48,76.52s.06,.07,.06,.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .19; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.48,76.52c.12,.06,.14,.04,.12,0" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .33; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.48,76.52h0m0,0h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M25.13,79.36s-.04-.05-.06-.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M24.99,79.36s.06,.05,.08,.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .2; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M24.99,79.36h0m.14,0h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.02,79.91s0-.06-.04-.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .19; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.88,79.85c-.01,.07,0,.09,.03,.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.88,79.85h0m.14,.06h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.07,79.29s-.05,.05-.05,.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .18; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.07,79.43s.03-.05,.04-.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.07,79.43h0m0-.13h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.2,82.98s-.02-.06-.04-.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.08,82.93s.03,.05,.04,.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .16; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.08,82.93h0m.11,.05h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.34,71.01s-.05-.04-.05-.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .12; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.34,71.01c-.1-.02-.11,0-.1,.02" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .25; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.34,71.01h0m0,0h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.09,59.4c0-.06-.02-.07-.06-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .21; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.92,59.37s.06,.06,.08,.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.92,59.37h0m.16,.02h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M5.46,81.42s.05-.04,.06-.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M5.49,81.29s-.05,.04-.05,.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .16; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M5.49,81.29h0m-.02,.13h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M64.65,20.45c-.27-1.24-.95-2.78-1.25-3.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.2; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M63.62,20.5c.02,2.21-1.54-.7-2.44-3.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.16; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M59.73,14.69c-.36-.94-.49-1.98-.6-3" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.05; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.16,11c.72,.34,1.09,.73,1.3,.9" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.07,9.9c-.18-.34-.38-.73-.51-1.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.45; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M56.82,9.48c.02,.37,.07,.74,.05,1.08" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M56.24,9.69c.26-1.13,.82-2.38,.4-2.86" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.98; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.98,7.17c.28-.26,.57-.27,.85-.28" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.85; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.7,8.09c.91,.08,.42-.28-.29-.58" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.96; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M54.2,7.55c.28,0,.53,.1,.77,.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.61; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M54.82,9.15c-.47-.69-1.45-2.27-2.2-3.19" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.59; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.33,7.19c.03,1.19-.26,2.33,1.14,2.23" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.38,10.07c-3.16,.47-7.52-1.51-9.97-1.77" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.26; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M43.55,9.19c4.91,1.87,5.26,2.58,9.2,5.52" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.4; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M54.9,16.92c.19,1.04,.16,2.36,.3,3.15" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.11; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.91,22.67c-.02-.26-.36-.91-.77-1.42" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.26; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.74,25.33c.15-.25-.62-.75-.7-1.4" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M59.66,26.33c-.66,.76-1.12,.81-1.43,.57" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.4; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.03,24.42c1.38-1.03,3.01-.65,3.23-1.34" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.38; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M63.96,21.96h0m-4.3,4.37h0m-1.92-1h0m.17-2.66h0m-2.08-1.99h0m-2.12-5.26h0m-12.42-7.06h0m13.15,.86h0m-2.79-3.85h0m2.54,2.17h0m1.5,.55h0m-1.72-.92h0m1.73-.52h0m.79,4.9h0m1.08-3.96h0m-.41,3.41h0m1.86-.32h0m1.8,5.74h0m2.54,1.95h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.12,20.05c.25,.25,.49,.5,.7,.74" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.04; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M56.72,20.26c-.25-.3-.47-.61-.66-.88" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.21; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.62,18.66h0m2.79,2.96h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.16,21.99c.32-.42,.65-.78,.95-.94" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.69; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.25,22.63c-.18,.3-.35,.63-.54,.93" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.15; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M59.04,24.39h0m2.86-2.65h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M59.17,25.73c-.12-.04-.24,.07-.29,.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .79; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.97,26.27c.04-.08,.13-.16,.19-.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .63; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.97,26.27h0m.2-.54h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.18,22.09c-.12,.06-.2,.09-.24,.15" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .58; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.96,22.53c.09-.08,.17-.12,.22-.18" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .57; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.96,22.53h0m.22-.43h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M63.07,23.14c-.02-.15-.04-.22-.06-.28" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .58; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.83,22.63c.04,.08,.08,.16,.12,.26" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .57; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.83,22.63h0m.24,.51h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M50.12,12.28c-.02-.07-.05-.1-.09-.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .3; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M49.9,12.25c.04,.05,.08,.09,.11,.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .3; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M49.9,12.25h0m.22,.03h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.14,20.57s-.02,.09-.02,.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .19; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.14,20.57c.02,.14,.06,.15,.07,.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .34; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.14,20.57h0m0,0h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.64,26.82c-.02-.1-.02-.12-.08-.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .32; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.4,26.77s.08,.06,.11,.08" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .27; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.41,26.77h0m.23,.05h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.44,26.39c.06-.01,.08-.03,.09-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .24; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.53,26.22s-.08,.05-.1,.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .25; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.53,26.22h0m-.09,.17h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.27,35.78c.2,1.13,.32,.49,.62-.29" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.35; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M64.08,37.64c-.54,.62-.72,1.08-.62,1.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.88; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M64.64,38.24h0m1.63-2.45h0m1.6-1.59h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67.24,37.13c.28-.23,.13,.38,.07,.55" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.51; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67.47,37.03c-.08-.1-.12-.12-.15-.08" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .4; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67.47,37.03h0m-.22,.1h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.16,41.6c.25,.17,.44-.06,.66-.32" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.64; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.43,40.75c-.25-.03-.53,.06-.76,.23" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.63; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.43,40.75h0m-1.27,.85h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.15,38.28c.24-.01,.41-.07,.54-.19" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.16; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.89,37.56c-.13,.11-.31,.19-.46,.29" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.08; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.89,37.56h0m-.74,.71h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M64.14,43.99c.23,.05,.42,.04,.57-.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.18; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.08,43.51c-.16,.08-.31,.16-.47,.24" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.05; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.08,43.51h0m-.94,.48h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.58,40.27c-.34,.2-.24,.26-.08,.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .94; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.84,40.18c-.13-.11-.26-.19-.33-.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .78; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.84,40.18h0m-.26,.1h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.33,38.39c.14-.04,.26-.06,.37-.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .77; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.95,38.01c-.12,.02-.25,.05-.36,.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .76; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.95,38.01h0m-.62,.39h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M70.66,37.71c-.08,.03-.17,.05-.24,.08" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .51; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M70.23,37.95c.16,.05,.23,.08,.29,.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .61; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M70.23,37.95h0m.43-.24h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.57,42.47c.12,.02,.21-.02,.26-.08" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .57; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67,42.15c-.1,.02-.19,.04-.27,.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .57; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67,42.15h0m-.42,.32h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.02,39.1c-.04,.07-.07,.15-.07,.15" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .33; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.02,39.1c0,.16,.03,.18,.05,.16" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .4; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.02,39.1h0m0,0h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.12,43.15c.08-.04,.12-.06,.12-.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .33; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.12,43.15h0m.08-.25h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.3,37.81s-.03,.09-.03,.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .19; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.3,37.81c0,.13,.03,.14,.05,.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .32; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.3,37.81h0m0,0h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.73,41.79c-.03-.07-.05-.1-.09-.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .3; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.5,41.72c.04,.06,.07,.1,.1,.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .3; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.5,41.72h0m.24,.08h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.64,39.68s-.06,.06-.06,.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.64,39.68c-.05,.12-.02,.15,0,.13" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .32; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.64,39.68h0m0,0h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.77,37.48s.07-.06,.07-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .19; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.77,37.48c.06-.12,.05-.14,.02-.13" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .32; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.77,37.48h0m0,0h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.14,40.43c.06-.02,.1-.04,.11-.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .26; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.21,40.23s-.07,.06-.1,.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .26; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.21,40.23h0m-.07,.19h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.42,38.83s.1-.01,.13-.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .28; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.54,38.67s-.06,.04-.09,.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .23; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.54,38.67h0m-.12,.16h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.64,44.38s.06-.04,.06-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.67,44.25s-.05,.04-.05,.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .16; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.67,44.25h0m-.03,.13h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.8,45.68c.06-.02,.09-.02,.09-.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.85,45.53s-.04,.05-.06,.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .18; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.85,45.53h0m-.05,.15h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M64.78,37.45s-.04,.03-.05,.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .13; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M64.75,37.55s.05-.01,.05-.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .14; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M64.75,37.55h0m.03-.1h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.96,44.69s-.03-.04-.04-.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .13; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.86,44.65s.02,.05,.04,.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .14; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.86,44.65h0m.1,.03h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M24.73,12.21c-4.29,.53-5.16,0-.04-2.14" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.23; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M23.56,10.02c-3.99,.95-5.18,2.96-7.52,5.99" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.19; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M17.37,17.6c2.23,.39,5.04-.08,7.47-.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.14; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.34,16.76c4.05-.78,7.45-.17,10.34,2.88" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.5; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M38.1,18.87c-2.32-2.41-5.37-3.99-8.38-5.28" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M29.81,11.59c.54,.63,.26,.76-.16,.89" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.49; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M27.65,12.92c.43,.14,.73-.41,1.03-.89" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.93; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M26.94,11.89c-.76,.54-.8,.72-.48,.82" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.43; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M26.94,11.89h0m.72,1.03h0m2.16-1.33h0m-1.12,1.58h0m10.81,7.41h0m-13.59-3.22h0m-10.54-.49h0m10.35-7.22h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M25.81,13.95c-1.26-.02-2.54,.11-3.8,.17" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.54; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M23.26,13.62c1.29-.15,2.62-.11,3.84,.2" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.58; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.32,14.25h0m-7.58-.1h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M30.8,15.02c.13-.1,.26-.05,.38,.01" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .82; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M31.55,15.08c-.13-.23-.45-.35-.71-.38" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.66; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M31.55,15.08h0m-.75-.06h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M17.3,14.19c.13-.09,.25-.18,.35-.28" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .9; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M17.88,13.53c-.11,.1-.28,.15-.4,.24" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .94; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M17.88,13.53h0m-.58,.66h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.73,76.16c-1.91-5.68-6.31-24.39-1.25-10.86" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.26; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M56.96,64.34c-.1-.36-.31-.6-.6-.79" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.04; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.09,60.96c.33-.73,1.4-.57,.7-2.99" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.63,54.95c.13-1.12,.13-2.22-.72-2.71" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.98; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M54.25,54.28c-.12,.37-.31,.71-.58,1.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.38; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M51.68,58.19c-3.13,4.65-11.49,14.33-6.56,9.5" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.39; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M47.47,64.96c4.91-5.86,5.62-2.77,6.41,4.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.41; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M54.78,72.51c1.11,3.09,2.89,7.84,3.54,5.78" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.24; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.51,77.2h0m-4.51-6.78h0m-8.04-3.56h0m6.82-10.76h0m1.18-4.11h0m1.47,4.94h0m.02,6.18h0m1.42,3.26h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.96,63.54c.06,.44,.11,.89,.15,1.33" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.68; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.43,63.58c-.08-.46-.12-.93-.12-1.36" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.74; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.59,60.89h0m.59,5.32h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.64,60.05c.2-.56,.6-.46,.57-.88" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.85,58.15c-.36,.03-.57,.58-.64,1.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.72; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.85,58.15h0m-.21,1.9h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M51.9,60.52c0,.25,.18,.48,.42,.69" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.66; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.99,61.69c.07-.34-.11-.56-.35-.73" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.73; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.99,61.69h0m-1.09-1.17h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M54.74,52.46c.1,.14,.17,.42,.27,.66" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.43; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.47,53.55c-.07-.22-.19-.4-.32-.58" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.33; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.47,53.55h0m-.73-1.09h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.51,52.55c-.62-.6-1.84-1.58-2.94-2.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.39; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M48.49,52.28c-1.51,2.65-4.15,5.41-6.81,7.19" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M40.22,61.09c2.06-.89,9.21-5.51,11.61-8.17" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.19; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.49,52.04h0m-11.75,8.03h0m8.68-9.79h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M33.46,9.35c6.95-1.29,16.7,2.4,5.2-.74" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.47; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M35.2,8.12c-3.78,.04-5.68,1.7-7.61,2.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.27; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M26.65,11.14c1.04,.12,2.55,.07,3.54-.35" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.39; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M31.1,10.06h0m-4.63,.23h0m11-2h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.54,53.92c-1.24-.66-2.56-1.2-3.28-2.32" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.71; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.97,52.19c.03-.3,.1-1.02,.2-1.6" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.24; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.6,53.93c.51,.03,1.01,.01,1.28,.33" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.73; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61,57.56c-.54-.03-1.14-.24-1.57-.55" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.37; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.67,55.55c-.89-.34-1.18-.02-1.29,.46" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.27; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.67,55.55h0m-1.67,2.01h0m-1.95-1.99h0m-3.08-3.38h0m.82-1.85h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.94,80.38c-.93-2.15-4.98-1.09-3.41,1.32" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.44; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.3,83.58c.5,.16,.92,.23,1.06,.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.19; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.87,82.77h0m-2.53-.16h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M37.61,16.04c-2.37-4.49-11.57-4.73-3.58-1.59" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M36.4,16.65c.25,.27,.53,.54,.82,.79" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.28; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M38.14,18.12h0m-3.09-3.29h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M59.78,38.36c-.09,.45-.2,.98-.35,1.51" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.1; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.87,38.79c-1.34,1.47-1.02,5.17,.51,3.42" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.09; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.98,41.35h0m.81-2.99h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M50.39,5.07c.64-.54,1.34-1.9,1.68-2.92" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.27; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M51.16,.58c-.32,.73-.65,2-1.19,2.74" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.99; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M49.18,3.89h0m3.07-2.84h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.47,38.12c.04-1.19,.15-2.53,.18-3.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.29,36.75c-1.12,2.37,.71,2.03,.99,2.64" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.25; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M51.04,40.89c.29,.06,.76,.06,1.33-.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.68; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.59,40.28h0m-.66,.14h0m.53-5.59h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M59.89,50.56c.84,1.12,.98,1.36,.84,1.37" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.36; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.73,50.62c-.05,.4,.09,.87,.52,1.29" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.88; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M59.49,52.61h0m.4-2.05h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M63.94,51.85c.52,.18,1.02,.29,1.4,.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.87; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M63.75,50.8c-.4,0-.79,0-1.19-.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.38; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.39,50.56h0m4.7,.54h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M26.89,68.63c-.43-.14-.86-.23-1.25-.23" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.55; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M26.73,69.69c.41,0,.83-.02,1.23-.02" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.46; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M29.18,69.73h0m-4.66-.85h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M59.27,32.69c-.96,2.17-1.94,4.7-2.76,6.96" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.14; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.1,38.73c1.01-2.06,2.22-4.6,2.84-6.93" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.14; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.18,30.75h0m-4.03,9.9h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M32.1,80.22c-1.52-1.14-3.61-2.42-4.7-2.42" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.14; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M29.2,78.97c1.17,.52,2.29,1.3,3.39,1.98" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.62; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M33.72,81.61h0m-7.05-3.2h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M40.14,69.48c.04,.32,.47,.79,.76,1.19" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.85; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M38.3,70.35c-1.08,.28-2.36,.49-3.06,.64" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.08; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M37.09,70.83c1.04-.33,2.08-.67,2.8-.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.95; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M40.46,71.51h0m-5.26-.29h0m4.94-1.75h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M34.39,68.43c-.18,.54-.67,.72-1.24,.83" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.15; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M32.88,68.27c-.26,.16-.51,.35-.72,.55" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.82; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M31.6,69.52h0m2.79-1.09h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M63.6,48.97c.47-.08,.94-.22,1.37-.38" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.85; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M63.56,48.4c-.45,.09-.91,.16-1.35,.19" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.73; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.85,48.53h0m5.39-.58h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M48.08,44.6c.58,.15,.57,.79,.39,1.29" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.08; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M47.79,45.85c-.64-.06-.82-.44-.72-.77" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.45; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M47.79,45.85h0m.29-1.25h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.42,42.54c-.21,.44-.64,.93-1.16,1.24" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.43; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.63,43.99c.43-.27,.84-.71,1.27-1.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.3; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.63,43.99h0m2.79-1.44h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M8.25,60.99c-.31,.14-.62,.3-.92,.46" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.06; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M8.33,61.69c.3-.19,.6-.4,.91-.56" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.14; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.26,60.82h0m-3.87,1.05h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M32.08,71.95c-.29,.14-.56,.29-.85,.44" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.91; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M32.17,72.54c.27-.2,.55-.43,.82-.63" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.06; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M33.9,71.43h0m-3.52,1.37h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M36.93,11.75c-.41,.07-.81,.15-1.21,.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.47; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M36.98,12.17c.39-.14,.79-.3,1.18-.43" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.52; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M39.39,11.47h0m-4.84,.88h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.19,8.54c.57,.18,1,.37,1.19,.58" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.68; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.75,10.07c-.12-.26-.25-.5-.36-.74" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.64; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.75,10.07h0m-.56-1.52h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M39.49,41.38c.07-.27,.91-.2,1.63-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.41; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M41.6,41.63c-.15,.32-.6,.31-1.05,.2" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.31; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M41.61,41.63h0m-2.12-.24h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M45.48,14.17c.13,.73-.44,.74-1.11,.68" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M42.8,14.93c.39-.21,.85-.34,1.32-.44" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.8; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M42.8,14.93h0m2.69-.76h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M51.04,14.09c-.45,.45-.76,.3-1.03-.02" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.44; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M49.26,13.11c.26,0,.6,.17,.94,.39" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.05; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M49.26,13.11h0m1.77,.99h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.75,39.09c.5,.25,.43,.58,.15,.76" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.02; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.94,39.85c.14-.13,.24-.29,.36-.44" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.13; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.94,39.85h0m.81-.77h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.55,58.72c-.39-.05-.66-.21-.86-.43" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.96; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M64.18,57.46c.28,.15,.51,.34,.74,.57" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.87; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M64.18,57.46h0m1.37,1.26h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M33.93,69.89c.26-.31,.44-.59,.59-.7" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.83; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M35,69.8c-.18,.02-.35,.03-.54,.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.08; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M35,69.8h0m-1.07,.09h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M36.18,49.24c.02-.34,.14-.62,.33-.82" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.8; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M37.33,48.14c-.2,.19-.38,.38-.56,.56" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.59; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M37.33,48.14h0m-1.15,1.1h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M26.35,47.08c-.2,.53-.38,1.1-.58,1.65" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.49; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M25.03,50.31c.23-.52,.42-1.07,.63-1.62" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.49; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M25.03,50.31h0m1.32-3.23h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.65,15.13c.17,.05,.34,.1,.48,.2" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.04; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.44,15.74c-.25,.04-.43,.02-.55-.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.16; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.44,15.74h0m-.79-.61h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.32,2.46c.05-.3,.19-.45,.32-.46" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.2; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M63.01,2.41c-.11,.07-.22,.1-.34,.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .72; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M63.01,2.41h0m-.69,.05h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M22.59,68.63c.11,.22-.06,.45-.27,.7" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.59; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M21.86,69.98c.03-.21,.14-.48,.27-.73" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.55; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M21.86,69.98h0m.73-1.35h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67.91,47.25c.03,.37-.1,.5-.31,.5" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.38; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.93,47.58c.18-.06,.33-.11,.49-.16" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.03; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.93,47.58h0m.98-.33h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M44.92,85.56c-.09,.19-.22,.22-.37,.2" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .91; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M44.11,85.65c.11-.13,.27-.24,.42-.29" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.03; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M44.11,85.65h0m.81-.09h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.2,9.07c-.07,0-.12-.01-.15-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .34; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.05,8.85c.52-.09,.86-.09,.97-.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.96; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.05,8.85h0m.15,.22h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M27.71,9.22c-.18,.1-.36,.17-.55,.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.19; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M26.57,9.49c.18-.16,.36-.27,.54-.32" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.26; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M26.57,9.49h0m1.14-.26h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M23.31,67.76c.05,.26,.13,.5,.15,.64" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.32; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M23.01,68.22c.04-.08,.05-.18,.1-.27" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .58; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M23.01,68.22h0m.3-.47h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M41.52,15.08c.21-.03,.43-.1,.64-.14" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.31; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M42.8,14.94c-.22,.03-.43,.15-.64,.22" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.37; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M42.8,14.94h0m-1.29,.14h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.15,67.6c.11-.44,.15-.34,.15-.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.09; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.28,68.04c-.21,.06-.25-.01-.23-.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .68; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.28,68.04h0m-.13-.44h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M49.57,40.64c-.16,.04-.46,.01-.78-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.58; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M48.04,40.33c.25,.05,.51,.1,.76,.16" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.56; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M48.04,40.33h0m1.53,.31h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M29.94,69.33c-.05,.16-.14,.19-.23,.14" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .64; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M29.49,69.24c.11-.04,.21-.09,.28-.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .61; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M29.49,69.24h0m.45,.09h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.07,50.13c-.13-.06-.23-.14-.34-.27" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .87; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.5,49.49c.17,.1,.29,.18,.38,.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .9; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.5,49.49h0m.57,.64h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.47,30.37c.03-.21,.1-.38,.19-.53" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.14; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.02,29.4c-.08,.17-.15,.34-.24,.51" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.12; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.02,29.4h0m-.55,.97h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.85,43.95c-.12,.05-.21,.13-.32,.18" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .74; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.16,44.18c.1-.14,.19-.21,.3-.24" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .78; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.16,44.17h0m.69-.22h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M39.23,31.73c.04,.18,.08,.34,.11,.5" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.03; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M39.34,32.75c-.08-.16-.14-.32-.16-.5" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.05; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M39.34,32.75h0m-.1-1.02h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.36,56.27s-.05-.09-.07-.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .28; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.22,56.03c-.03-.39,.08-.39,.15-.24" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .99; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.22,56.03h0m.14,.24h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M30.5,36.31c.03,.11,.02,.2-.02,.28" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .58; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M30.3,36.82c0-.15-.01-.24,0-.3" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .61; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M30.3,36.82h0m.21-.5h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M36.01,83.26c.11,.07,.22,.15,.34,.22" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .81; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M36.69,83.7c-.18,.03-.31-.02-.41-.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .87; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M36.69,83.7h0m-.67-.44h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.33,75.48c.12,.16,.15,.32,.14,.48" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.02; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.43,76.47c0-.16-.02-.33-.05-.5" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.43,76.47h0m-.11-.99h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M38.13,15.55c-.08,.07-.15,.13-.23,.2" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .6; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M37.68,15.95c-.1-.17-.05-.26,.07-.32" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .77; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M37.68,15.95h0m.45-.4h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M29.91,13.02c-.11,.06-.17,.07-.23,.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .49; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M29.53,12.87c.12-.04,.19-.05,.24-.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .49; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M29.53,12.87h0m.38,.16h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M49.46,49.85c.08,.03,.16,.06,.22,.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .5; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M49.77,50.19c-.12-.04-.19-.07-.23-.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .51; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M49.77,50.19h0m-.31-.34h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M39.21,31.29c-.1-.07-.11-.23-.1-.41" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .87; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M39.09,30.45c.1,.05,.1,.22,.1,.41" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .87; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M39.09,30.45h0m.12,.84h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.58,36.81c.03-.19,.11-.24,.21-.22" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .69; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.1,36.73c-.08,.04-.16,.09-.25,.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .56; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.1,36.73h0m-.52,.08h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M59.84,49.29c.09,.02,.17,.04,.26,.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .52; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.35,49.4c-.15,.07-.24,.11-.31,.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .66; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.35,49.4h0m-.51-.11h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M41.74,42.91c-.07-.07-.13-.14-.19-.2" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .54; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M41.37,42.51c.14,.06,.22,.08,.26,.13" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .59; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M41.37,42.51h0m.37,.4h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M33.72,81.61c.15,.05,.3,.11,.43,.19" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .95; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M34.46,82.16c-.12-.1-.24-.19-.37-.28" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .92; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M34.46,82.16h0m-.74-.55h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M31.18,69.28c.03,.06,.04,.11,.02,.15" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .32; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M31.1,69.56c-.07-.06-.1-.13-.09-.18" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .41; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M31.1,69.56h0m.08-.28h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.73,33.83c0-.06,0-.11,0-.16" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .31; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.71,33.52c.07,.08,.1,.11,.1,.15" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .37; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.71,33.52h0m.01,.31h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.5,77.2c0-.12-.05-.24-.08-.37" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .75; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.44,76.47c.02,.12,.07,.24,.09,.37" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .75; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.44,76.47h0m.06,.73h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M39.87,11.34c.02,.11-.09,.12-.21,.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .57; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M39.38,11.46c.07-.03,.15-.08,.24-.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .53; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M39.38,11.46h0m.5-.12h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M46.63,39.86c.08-.02,.17,0,.26,.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .55; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M47.16,39.99c-.03,.09-.14,.05-.26,0" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .59; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M47.16,39.99h0m-.52-.13h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67.72,44.05c.06-.02,.09,0,.1,.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .27; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67.85,44.24c-.07,.04-.1,.01-.11-.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .29; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67.85,44.24h0m-.12-.19h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M70.38,43.7c-.02-.05-.03-.09-.03-.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .24; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M70.46,43.53s.02,.08,.01,.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M70.46,43.53h0m-.07,.17h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M34.71,15.09s-.08,.05-.11,.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .25; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M34.51,15.04c.06-.03,.09-.05,.12-.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .26; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M34.51,15.04h0m.21,.05h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M54.45,18.83c.05,.03,.04,.06,0,.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .23; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M54.38,19c-.05-.03-.04-.06-.01-.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .23; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M54.38,19h0m.07-.17h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.44,62.85c.05-.02,.07,0,.08,.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.54,63c-.06,.02-.09,0-.1-.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .24; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.54,63h0m-.1-.15h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M34.9,82.55c-.06-.07-.14-.14-.21-.2" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .59; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M34.47,82.15c.09,.03,.2,.06,.28,.13" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .63; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M34.47,82.15h0m.43,.4h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M23.32,84.05c-.05,.02-.09-.02-.11-.08" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .3; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M23.14,83.84c.06-.06,.1-.02,.13,.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .35; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M23.14,83.84h0m.18,.21h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.44,21.1c-.05-.01-.04-.05-.03-.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .24; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.45,20.88c.07,0,.07,.04,.04,.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .27; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.45,20.88h0m-.01,.21h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.97,10.2s.07,.04,.06,.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .2; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.97,10.35s-.03-.06-.04-.08" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .18; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.97,10.35h0m0-.15h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.83,67.34s0-.08,.02-.14" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .29; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.89,67.07s0,.08-.02,.14" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .29; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.89,67.07h0m-.06,.27h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M24.94,50.75c-.09-.03-.06-.11,0-.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .5; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M25.03,50.31c-.02,.07-.03,.15-.05,.22" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .44; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M25.03,50.31h0m-.1,.43h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.86,19.57s-.08,.03-.1,.02" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .21; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.71,19.49s.08-.02,.11-.01" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.71,19.49h0m.16,.07h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M47.64,40.26c.03-.05,.12-.03,.2,0" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .44; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M48.05,40.34c-.07-.02-.14-.03-.21-.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .42; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M48.05,40.34h0m-.41-.08h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.72,50.71s-.02,.05-.03,.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .13; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.62,50.76s.02-.05,.03-.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .13; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.62,50.76h0m.1-.05h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M35.18,82.66c-.03,.07-.08,.03-.14-.01" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .34; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M34.91,82.55s.09,.04,.13,.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .29; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M34.91,82.55h0m.27,.11h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M.66,60.16c-.07,.02-.08-.02-.07-.08" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .28; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M.59,59.94s0,.07,.02,.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .23; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M.59,59.94H.59m.06,.22H.66" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.98,56.16s.09-.05,.12-.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .26; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M63.17,56.22s-.09,.05-.12,.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .26; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M63.17,56.22h0m-.19-.07h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.25,50.68s.02,.04,0,.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .12; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.2,50.75s-.03-.05-.02-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .14; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.2,50.75h0m.05-.07h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.56,81.19c.68-1.39,1.63-3.16,3.42-5.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.45; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.18,76.29c-.16,.27-.23,.55-.56,.82" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.9,77.63c-.95,.58-2.15,1.4-3.35,1.95" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.59; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M8.99,80.08c.26-.18,.55-.4,.83-.6" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.06; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.22,80.56c-.47,.43-.87,.79-.92,.87" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.54; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.29,79.3c.45-.17,.37,.21-.1,.82" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.45; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.31,80.63c-.18,.17-.44,.38-.75,.56" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.87; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.28,81.43c0,.2,0,.51,.03,.96" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.92; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.41,83.34h0m-1.68-1.75h0m.62-.59h0m-1.03-.26h0m1.38-1.82h0m-3.35,1.11h0m6.41-2.44h0m3.09-2.31h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.37,80.7c.21-.53,.24-1.02,.19-1.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.56; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.15,80.32c-.49,.19-.61,.52-.53,.7" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.93; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.15,80.32h0m.23,.38h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.38,78.29c.13-.09,.32-.22,.48-.37" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.22,77.44c-.19,.09-.34,.22-.47,.37" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.21; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.22,77.44h0m-.83,.85h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.38,73.87c.23-.2,.47-.42,.71-.61" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.87; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.67,74.07c-.27,.33-.27,.43,.31,.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.77; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.3,72.23c-.26,.07-.62,.2-.99,.28" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.07; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.74,74.6c.67-.81,.84-.79,.98-.89" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.67; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.74,74.6h0m1.55-2.09h0m1.42,1.1h0m.17-.83h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.16,74c-.3,.33-.61,.66-.92,.96" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.65; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.88,75.45c.68-.62,1.39-1.56,1.83-2.33" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.98; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.11,72.22h0m-3.91,3.57h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.65,86.02c.15-.6,.25-1.01,.35-1.34" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.78; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.91,84.82c.22-.19,.3-.39,.06-.78" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.77; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.41,83.35h0m-.76,2.67h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.32,80.7c-.07-.2,.06-.85,.25-1.41" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.89; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.22,80.36c.09,.63,.03,.89-.13,.9" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.96; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.26,78.78c-.33,.18-.5,.47-.5,.78" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.94; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.26,78.78h0m-.04,1.58h0m-.9,.33h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.78,66.2c-.38-.07-.14-.28,.18-.48" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.55; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.62,65.32c1.28,.94,1.24,.85,.76,.73" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.32; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.62,65.32h0m-.84,.88h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.03,83.07c-.16-.17-.16-.36-.15-.55" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.18; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.84,81.94c.41-.08,.57,.14,.56,.42" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.67; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.84,81.94h0m.19,1.13h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.67,70.83c.29-.07,.59-.14,.88-.23" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.81; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.63,70.69c-.3,.08-.59,.16-.87,.26" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.82; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M8.91,71.29h0m3.49-.96h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M8.71,84.98c-.2-.18-.11-.41,.07-.59" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.37; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.37,84.06c-.02,.18-.07,.41-.17,.59" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.25; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.37,84.06h0m-.66,.93h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.65,62.62c-.14,.13-.27,.26-.38,.4" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.11; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.08,63.53c-.68,.43-.6,.09-.3-.29" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.19; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.08,63.53h0m.57-.91h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.42,77.29c.21-.15,.34-.34,.48-.51" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.41; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.46,76.37c-.07,.2-.21,.46-.38,.67" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.55; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.46,76.37h0m-1.04,.92h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.22,80.26c-.05-.13,.16-.45,.4-.7" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.66; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.23,79.4c-.24,.05-.38,.24-.51,.43" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.37; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M14.23,79.4h0m-1.01,.86h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.57,78.23c-.17,.03-.37,.09-.56,.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.13; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.55,78.08c.2-.09,.38-.13,.54-.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.12; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.55,78.08h0m1.02,.15h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.72,63.67c-.01-.33,.08-.49,.23-.57" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.31; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.6,62.98c-.15,.09-.29,.23-.42,.37" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.12; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.6,62.98h0m-.87,.69h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.78,83.91c.03-.22,.09-.37,.22-.46" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.06; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.5,83.3c-.06,.13-.15,.31-.27,.44" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.03; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.5,83.3h0m-.72,.62h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.6,77.91c.06-.23,.19-.24,.32-.17" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .89; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.24,78.05c-.09,.17-.23,.2-.36,.16" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .86; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.24,78.05h0m-.63-.14h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.94,76.76c.19,.03,.26,.12,.22,.22" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .72; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.89,77.19c-.08-.11-.14-.2-.16-.27" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .62; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.89,77.19h0m.06-.43h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.44,76.79c-.15-.04-.23-.08-.3-.16" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .69; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9,76.32c.16,0,.27,.04,.34,.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .75; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9,76.32h0m.44,.47h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.95,85.72c-.1-.04-.18-.13-.21-.22" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .63; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.9,85.28c.11,.04,.19,.13,.22,.22" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .64; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.9,85.28h0m.05,.44h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M7.39,81.16c-.17,.08-.32,.15-.46,.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.01; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M6.47,81.58c.15-.15,.28-.25,.41-.32" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.05; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M6.47,81.58h0m.92-.43h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.55,80.36c-.1-.13-.15-.19-.13-.26" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .59; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.6,79.88c.05,.1,.08,.18,.08,.26" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .55; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.6,79.88h0m-.06,.48h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.31,60.81c-.12,.02-.19,0-.24-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .51; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.97,60.52c.09-.06,.18-.03,.25,.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .56; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.97,60.52h0m.34,.29h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.01,64.61c.02,.11,.06,.2,.06,.26" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .54; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M17.88,65.04c-.01-.11-.04-.2-.04-.27" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .54; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M17.88,65.04h0m.14-.43h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M5.95,79.01c-.12-.06-.14-.12-.1-.18" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .48; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M6.01,78.66c.05,.08,.09,.16,.09,.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .47; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M6.01,78.66h0m-.07,.35h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.18,79.88c-.02-.14,0-.25,.05-.34" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .7; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.43,79.25c.03,.12,.01,.23-.04,.34" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .7; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.43,79.25h0m-.25,.63h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.38,62.92c-.15,.01-.28,.02-.4,.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .8; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.59,62.97c.17-.07,.29-.12,.39-.14" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .83; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.59,62.97h0m.79-.06h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.7,75.66c.11-.02,.19,0,.25,.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .53; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.11,75.93c-.1-.02-.19-.04-.26-.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .53; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.11,75.93h0m-.4-.27h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.13,65.42c.09-.05,.17,0,.19,.08" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .48; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.22,65.7c-.05-.04-.1-.07-.12-.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .33; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.22,65.7h0m-.1-.28h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.91,74.89c.05,.03,.11,.07,.17,.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .39; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.25,75.08c-.1,.04-.18,.05-.24,.02" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .5; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.25,75.08h0m-.33-.2h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.42,82.48c-.06,.09-.12,.16-.17,.24" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .59; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.07,82.95c.04-.15,.06-.24,.09-.3" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .63; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M9.07,82.95h0m.35-.48h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M8.92,71.3c-.09,0-.19,.03-.28,.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .58; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M8.35,71.43c.09-.03,.17-.1,.27-.14" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .61; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M8.35,71.43h0m.57-.13h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M11.71,61.21c.07,.02,.13,.04,.19,.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .4; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.1,61.33c-.11,.02-.17,.04-.22,.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .45; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.1,61.33h0m-.39-.12h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.74,61.46s-.06-.06-.06-.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.77,61.31s.05,.06,.04,.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .2; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.77,61.31h0m-.03,.14h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.69,76.65s-.08,.02-.12-.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .29; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.48,76.52c.04-.07,.08-.04,.12,0" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .32; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.48,76.52h0m.21,.14h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.5,83.3c0-.11,.03-.21,.08-.3" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .63; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.79,82.76c-.05,.08-.1,.17-.15,.27" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .61; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M10.79,82.76h0m-.29,.54h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M25.13,79.36c-.02,.05-.04,.07-.07,.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .2; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M24.99,79.36s.05-.03,.08-.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M24.99,79.36h0m.14,0h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.43,61.34c-.06,0-.11,0-.17,0" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .33; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.1,61.32c.05-.01,.11-.05,.17-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .37; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.1,61.32h0m.33,.02h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.02,79.91s-.08,.03-.11,.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.88,79.85s.07,0,.1,0" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .19; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M15.88,79.85h0m.14,.06h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.07,79.29s.05,.04,.04,.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.07,79.43s-.06-.04-.06-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .18; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M16.07,79.43h0m0-.13h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.2,82.98s-.05,.03-.07,.01" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .16; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.08,82.93s.06-.03,.07-.02" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.08,82.93h0m.11,.05h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.18,70.95s.06-.03,.08,0" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .2; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.34,71.01c-.03,.06-.06,.05-.09,.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .23; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M18.34,71.01h0m-.16-.06h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.07,59.34c.03,.06,0,.11-.04,.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .28; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.92,59.37s.05-.01,.07-.02" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .15; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.92,59.37h0m.14-.04h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M5.46,81.42s-.04-.05-.03-.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .16; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M5.49,81.29s.04,.05,.04,.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M5.49,81.29h0m-.02,.12h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.25,22.63c.2-.34,.42-.65,.66-.84" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.15; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.16,21.99c-.26,.36-.51,.76-.71,1.14" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.69; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M59.04,24.39h0m2.86-2.65h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M56.76,20.38c.24,.25,.5,.48,.78,.69" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.07; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.12,20.05c-.24-.24-.5-.48-.74-.7" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.04; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.63,18.66h0m2.78,2.96h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M59.17,25.73c.08,.09,.05,.19-.02,.29" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .63; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.97,26.27c-.14-.03-.15-.19-.09-.33" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .79; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.97,26.27h0m.2-.54h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.18,22.09c.08,.13,.06,.2,0,.26" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .57; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.96,22.53c-.05-.15-.06-.23-.02-.28" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .58; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.96,22.53h0m.22-.43h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.62,18.17c0,.09,0,.17,0,.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .49; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.62,18.66c-.09-.12-.15-.19-.15-.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .6; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.62,18.66h0m0-.49h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M63.07,23.14c-.05-.1-.09-.18-.12-.25" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .57; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.83,22.63c.1,.11,.15,.16,.18,.23" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .58; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.83,22.63h0m.24,.51h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M50.12,12.28c-.03,.07-.07,.09-.11,.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .3; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M49.9,12.25c.05-.04,.09-.07,.13-.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .3; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M49.9,12.25h0m.22,.03h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.16,20.83c-.07,0-.07-.05-.05-.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .3; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.14,20.57c.08,0,.08,.05,.07,.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .32; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M60.14,20.57h0m.02,.26h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.64,26.82c-.04,.05-.08,.05-.12,.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .27; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.4,26.77c.07-.03,.12-.05,.15-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .32; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.41,26.77h0m.23,.05h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.44,26.39c-.05-.04-.04-.07,0-.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .25; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.53,26.22c0,.05,0,.09,0,.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .24; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.53,26.22h0m-.09,.17h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.58,41.49c-.51,.42-.37-.01-.03-.39" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.04; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.43,40.75c-.12,.16-.3,.24-.47,.33" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.16; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.43,40.75h0m-.85,.74h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.15,38.27c0-.2,.13-.33,.29-.43" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.08; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.89,37.56c-.02,.24-.08,.41-.21,.53" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.16; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.89,37.56h0m-.74,.71h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M64.14,43.99c.16-.08,.31-.16,.47-.24" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.05; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.08,43.51c-.09,.22-.21,.37-.36,.45" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.18; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.08,43.51h0m-.94,.48h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.58,40.27c-.16-.25-.15-.33-.07-.31" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .78; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.84,40.18c-.05,.16-.22,.27-.34,.31" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .94; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.84,40.18h0m-.26,.1h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.33,38.39c.07-.13,.16-.22,.26-.27" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .76; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.95,38.01c-.05,.15-.14,.23-.25,.28" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .77; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.95,38.01h0m-.62,.39h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M70.66,37.71c-.05,.15-.09,.23-.14,.27" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .61; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M70.23,37.95c.05-.09,.11-.13,.19-.16" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .51; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M70.23,37.95h0m.43-.24h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.57,42.47c.03-.11,.09-.18,.16-.23" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .57; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67,42.15c-.05,.08-.09,.17-.16,.24" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .57; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67,42.15h0m-.42,.32h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.08,40.62c.09-.06,.17-.11,.26-.17" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .63; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.6,40.28c-.06,.1-.12,.2-.21,.27" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .68; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.6,40.28h0m-.52,.34h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.83,39.49c.03-.06,.06-.13,.09-.19" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .43; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.02,39.1c.1,.03,.08,.13,.02,.23" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .54; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.02,39.1h0m-.19,.38h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.2,42.89c.03,.07,.06,.12,.05,.15" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .33; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.2,42.89h0m-.07,.25h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67.32,37.73c-.12-.05-.07-.19,0-.35" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .78; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67.47,37.02c-.03,.12-.06,.23-.08,.35" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .73; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67.47,37.02h0m-.15,.71h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.28,38.06c-.06-.02-.05-.06-.03-.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .28; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.3,37.81c.08,0,.07,.06,.04,.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .31; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.3,37.81h0m-.02,.25h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.73,41.79c-.07,.04-.1,.05-.14,.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .3; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.5,41.72c.07-.02,.11-.03,.15-.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .3; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.5,41.72h0m.24,.08h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.54,39.9c-.06-.04-.04-.07,0-.11" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .28; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.64,39.68c.06,.04,.04,.08,0,.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .29; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.64,39.68h0m-.1,.22h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.91,37.27s.01,.08-.03,.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .29; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.77,37.48c-.06-.05-.03-.08,.02-.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .31; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.77,37.48h0m.14-.21h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.14,40.43c-.07-.04-.06-.07-.03-.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .26; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.21,40.23c.04,.06,.05,.1,.04,.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .26; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.21,40.23h0m-.07,.19h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.42,38.83s0-.07,.03-.09" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .23; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.54,38.67c.06,.04,.05,.08,.01,.12" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .28; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.54,38.67h0m-.12,.16h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.64,44.38s-.04-.05-.03-.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .16; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.67,44.25s.04,.06,.04,.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.67,44.25h0m-.03,.13h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.8,45.68s-.02-.06,0-.08" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .18; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.85,45.53c.02,.05,.03,.08,.03,.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.85,45.53h0m-.05,.15h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67.24,37.13c.02-.07,.04-.15,.07-.18" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .4; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67.47,37.03s-.08,.03-.11,.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .25; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M67.47,37.03h0m-.22,.1h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M64.78,37.45s.02,.05,.02,.07" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .14; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M64.75,37.55s-.02-.04-.02-.06" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .13; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M64.75,37.55h0m.03-.1h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.96,44.69s-.05,.02-.07,.02" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .14; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.86,44.65s.04-.02,.06-.01" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .13; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.86,44.65h0m.1,.03h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M25.89,13.62c-1.3-.14-2.72-.08-3.76,.14" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.52; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M23.41,14.03c1.24-.08,2.49-.14,3.7,0" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.47; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M28.32,14.25h0m-7.38-.08h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M30.8,15.02c-.56-.23-.32-.36,.04-.31" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.66; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M31.55,15.08c-.09,.12-.22,.02-.37-.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .82; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M31.55,15.08h0m-.75-.06h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M17.3,14.19c0-.21,.07-.33,.18-.41" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .94; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M17.88,13.53c-.04,.15-.12,.27-.23,.38" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 .9; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M17.88,13.53h0m-.58,.66h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.43,63.58c.08,.45,.19,.9,.31,1.33" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.74; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.96,63.54c-.06-.44-.12-.88-.19-1.32" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.68; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.59,60.89h0m.59,5.32h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.64,60.05c-.36,.5-.51-.13-.42-.79" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.72; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.85,58.15c.25,.53,.35,.83,.36,1.02" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.17; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.85,58.15h0m-.21,1.9h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M51.9,60.52c.19,.15,.5,.27,.74,.45" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.73; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.99,61.69c-.21-.14-.46-.3-.67-.48" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.66; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.99,61.69h0m-1.09-1.17h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M54.74,52.46c.13,.18,.28,.35,.41,.52" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.33; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.47,53.55c-.23,.08-.36-.15-.47-.43" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.43; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55.47,53.55h0m-.73-1.1h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.37,80.7c-.36,.51-.67,.5-.76,.32" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.94; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.15,80.32c.13-1.04,.35-1.17,.41-.87" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.56; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.15,80.32h0m.23,.38h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M12.38,78.29c.12-.16,.23-.33,.36-.48" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.21; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.22,77.44c-.02,.14-.17,.32-.35,.48" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.22; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M13.22,77.44h0m-.83,.85h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M61.74,42.71c-.25,.39-.46,.59-.65,.75" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.99; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.24,44.55c-1.07-.14-2.21-.69-2.82-1.6" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.23; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.93,41.79c-.05-.31-.09-.65-.17-.91" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.85; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M50.98,41.3c-4.43,.68-9.38-2.94-11.26-7.51" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.23; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M40.01,35.04c.94,1.97,2.61,3.63,3.32,5" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.4; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M45.36,41.84c-.58-.11-1.08-.07-1.46-.03" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.92; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M47.85,42.15c1.24,.28,2.46,.63,3.71,.55" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.51; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M51.93,44.35c.25,.24,.63,.45,1.04,.67" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.48; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M52.77,46.21c.34,.04,.81,.04,1.28-.05" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.58; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M53.27,43.65c-.23,.65,.04,1.1,.49,1.43" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.28; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M55,44.5c-.62,.09-1.01-.49-1.27-1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.47; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M57.01,45.02c.97,.17,1.94,.17,3.09-.13" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.08; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.77,46.04c-.81,.34-1.42,.5-1.1,.28" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.77; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M56.45,45.61c.17,.12,.83,.04,1.45-.04" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.94; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M56.01,46.22c.2,.48,.44,.4,.54,.15" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.63; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M54.07,47.06c-2.49,1.66,.17,3.83,1.4,1.53" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.13; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M58.15,46.7c1.84-.63,3.83-1.16,3.05-.37" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.48; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M62.33,47.26c.67-.59,1.47-1.6,2.93-2.24" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.47; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M65.11,44.56c.16-.14,.43-.31,.79-.48" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.87; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M68.26,42.33c.37-.08,.77-.12,1.17-.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.35; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.38,41.59c-.09-.26,.04-.61,.58-1.1" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.62; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.52,39.55c-.96-.03-.5,.37,.17,.49" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 2.87; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M70.74,38.32c.17-.33,.27-.65,.23-.85" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.78; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.56,36.96c.1-1.14,.47-1.3,.68-.99" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 3.12; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M69.56,36.96h0m.64,.51h0m-.68,2.08h0m1.49,.15h0m-.43,2.73h0m-3.81,1.28h0m-.33,.92h0m-6.22,2.44h0m-4.38,.51h0m.18-1.37h0m.43-.62h0m2.46,.1h0m2.19-1.13h0m-6.1-.07h0m-1.73-.85h0m1.99,2.06h0m-1.23-.05h0m-1.23-3.2h0m-7.43-.61h0m-1.69-.66h0m-4.33-8.44h0m13.74,7.87h0m1.91,1.31h0m5.37,2.21h0m2.21-3.22h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.03,38.44c-.29,.59-.52,.37-.75,.21" style="fill: none; stroke: #e0662c; stroke-dasharray: 0 0 0 1.97; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+  <path d="M66.03,38.44h0m-1.42,.62h0" style="fill: none; stroke: #e0662c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.16px;"/>
+</svg>
