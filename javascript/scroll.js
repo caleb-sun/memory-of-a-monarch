@@ -21,7 +21,7 @@ var globalchecker = 0;
 var myScrollFunc = function () {
     var y = window.scrollY;
     if(globalchecker==0){
-        if((y<=450)&&(interiorchecker==1)){
+        if((y<=600)&&(interiorchecker==1)){
             jan.classList.remove("active");
             box.classList.add("box-animation-up");
             box.classList.remove("box-animation-down");
@@ -31,11 +31,10 @@ var myScrollFunc = function () {
             backgroundFill.classList.add("background-fill-up");
             backgroundFill.classList.remove("background-fill-down");
 
-
             interiorchecker=0;
         }
 
-        if((y<=450)&&(interiorchecker!=0)){
+        if((y<=600)&&(interiorchecker!=0)){
             jan.classList.remove("active");
             box.classList.add("box-animation-up");
 
@@ -43,11 +42,10 @@ var myScrollFunc = function () {
             backgroundFill.classList.add("background-fill-up");
             backgroundFill.classList.remove("background-fill-down");
 
-
             interiorchecker=0;
         }
 
-        if (y>=451) {
+        if (y>=601) {
             interiorchecker=1;
             box.classList.remove("box-animation-up");
             box.classList.add("box-animation-down");
@@ -70,7 +68,7 @@ var myScrollFunc = function () {
             nov.classList.remove("active");
             dec.classList.remove("active");
         }
-        if (y>=800) {
+        if (y>=1100) {
             jan.classList.remove("active");
             feb.classList.add("active");
             mar.classList.remove("active");
@@ -84,7 +82,7 @@ var myScrollFunc = function () {
             nov.classList.remove("active");
             dec.classList.remove("active");
         }
-        if (y>=1500){
+        if (y>=1900){
             jan.classList.remove("active");
             feb.classList.remove("active");
             mar.classList.add("active");
@@ -98,7 +96,7 @@ var myScrollFunc = function () {
             nov.classList.remove("active");
             dec.classList.remove("active");
         }
-        if (y>=2500){
+        if (y>=2350){
             jan.classList.remove("active");
             feb.classList.remove("active");
             mar.classList.remove("active");
@@ -126,7 +124,7 @@ var myScrollFunc = function () {
             nov.classList.remove("active");
             dec.classList.remove("active");
         }
-        if (y>=3500){
+        if (y>=3300){
             jan.classList.remove("active");
             feb.classList.remove("active");
             mar.classList.remove("active");
@@ -140,7 +138,7 @@ var myScrollFunc = function () {
             nov.classList.remove("active");
             dec.classList.remove("active");
         }
-        if (y>=4000){
+        if (y>=3600){
             jan.classList.remove("active");
             feb.classList.remove("active");
             mar.classList.remove("active");
@@ -154,7 +152,7 @@ var myScrollFunc = function () {
             nov.classList.remove("active");
             dec.classList.remove("active");
         }
-        if (y>=4500){
+        if (y>=4100){
             jan.classList.remove("active");
             feb.classList.remove("active");
             mar.classList.remove("active");
@@ -168,7 +166,7 @@ var myScrollFunc = function () {
             nov.classList.remove("active");
             dec.classList.remove("active");
         }
-        if (y>=5000){
+        if (y>=4600){
             jan.classList.remove("active");
             feb.classList.remove("active");
             mar.classList.remove("active");
@@ -182,7 +180,7 @@ var myScrollFunc = function () {
             nov.classList.remove("active");
             dec.classList.remove("active");
         }
-        if (y>=5500){
+        if (y>=4900){
             jan.classList.remove("active");
             feb.classList.remove("active");
             mar.classList.remove("active");
@@ -196,7 +194,7 @@ var myScrollFunc = function () {
             nov.classList.remove("active");
             dec.classList.remove("active");
         }
-        if (y>=6000){
+        if (y>=5450){
             jan.classList.remove("active");
             feb.classList.remove("active");
             mar.classList.remove("active");
@@ -210,7 +208,8 @@ var myScrollFunc = function () {
             nov.classList.add("active");
             dec.classList.remove("active");
         }
-        if (y>=6500){
+
+        if (y>=5800){
             jan.classList.remove("active");
             feb.classList.remove("active");
             mar.classList.remove("active");
